@@ -33,17 +33,17 @@ body {
 
 /* CHARACTER RUNNING SPRITE */
 .run {
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/character-run.gif");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/character-run.gif");
 }
 
 /* CHARACTER JUMPING SPRITE */
 .jump {
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/platformChar_jump.png");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/platformChar_jump.png");
 }
 
 /* CHARACTER CRASHING SPRITE */
 .crash {
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/platformChar_duck.png");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/platformChar_duck.png");
 }
 
 /* TILE WITHOUT GRASS */
@@ -51,18 +51,18 @@ body {
     position: absolute;
     width: 64px;
     height: 64px;
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/platformPack_tile_regular.png");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/platformPack_tile_regular.png");
     background-size: cover;
 }
 
 /* TILE WITH GRASS ON TOP */
 .top {
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/platformPack_tile_top.png");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/platformPack_tile_top.png");
 }
 
 /* COIN SPRITE */
 .coin {
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/platformer-coin-collectible.gif");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/platformer-coin-collectible.gif");
     background-size: contain;
     width: 30px;
     height: 30px;
