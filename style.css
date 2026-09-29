@@ -15,7 +15,7 @@ body {
     height: 600px;
     margin: 0 auto;
     position: relative;
-    background-image: url("/resources/projects/technovators-mobile-platformer-game/backgroundEmpty.png");
+    background-image: url("https://app.bsd.education/resources/projects/technovators-mobile-platformer-game/backgroundEmpty.png");
     background-size: cover;
     background-position: center center;
     overflow: hidden;
